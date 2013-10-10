@@ -62,4 +62,5 @@ NSError * OMEGenName(Makev)(OMEGenCode code,NSError * causer,NSString * format,v
 
 #undef OMEGenNameSpace
 #undef OMEGenCodeFile
+#undef OMEGenErrorDomain
 #undef OMEGenAsSource
